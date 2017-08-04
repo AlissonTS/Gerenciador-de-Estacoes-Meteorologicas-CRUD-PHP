@@ -1,0 +1,1 @@
+Tecnologias utilizadas: PHP, MYSQL, HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP
