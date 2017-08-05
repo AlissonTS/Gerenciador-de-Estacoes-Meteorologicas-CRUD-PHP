@@ -70,7 +70,7 @@
                                                         <option value="<?php echo $linha['id']; ?>" checked><?php echo $linha['nome']; ?></option>
                                                 <?php }else{ ?>
                                                         <option value="<?php echo $linha['id']; ?>"><?php echo $linha['nome']; ?></option>
-                                                <?php $cont++; } } ?>  
+                                                <?php  } $cont++; } ?>  
                                             </select>
                                         </div>
                                     </div>
